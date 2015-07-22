@@ -1,0 +1,12 @@
+C:\Users\Mike\Documents\Visual Studio 2013\Projects\SeminarPaper\SeminarPaper\bin\Debug\Serial_Number_Pdf_Creator.exe.config
+C:\Users\Mike\Documents\Visual Studio 2013\Projects\SeminarPaper\SeminarPaper\bin\Debug\Serial_Number_Pdf_Creator.exe
+C:\Users\Mike\Documents\Visual Studio 2013\Projects\SeminarPaper\SeminarPaper\bin\Debug\Serial_Number_Pdf_Creator.pdb
+C:\Users\Mike\Documents\Visual Studio 2013\Projects\SeminarPaper\SeminarPaper\bin\Debug\itextsharp.dll
+C:\Users\Mike\Documents\Visual Studio 2013\Projects\SeminarPaper\SeminarPaper\obj\Debug\SeminarPaper.Form1.resources
+C:\Users\Mike\Documents\Visual Studio 2013\Projects\SeminarPaper\SeminarPaper\obj\Debug\Serial_Number_Pdf_Creator.Properties.Resources.resources
+C:\Users\Mike\Documents\Visual Studio 2013\Projects\SeminarPaper\SeminarPaper\obj\Debug\Serial_Number_Pdf_Creator.csproj.GenerateResource.Cache
+C:\Users\Mike\Documents\Visual Studio 2013\Projects\SeminarPaper\SeminarPaper\obj\Debug\Serial_Number_Pdf_Creator.exe
+C:\Users\Mike\Documents\Visual Studio 2013\Projects\SeminarPaper\SeminarPaper\obj\Debug\Serial_Number_Pdf_Creator.pdb
+C:\Users\Mike\Documents\Visual Studio 2013\Projects\Serial number pdf creator\Serial number pdf creator\bin\Debug\Serial_Number_Pdf_Creator.exe.config
+C:\Users\Mike\Documents\Visual Studio 2013\Projects\Serial number pdf creator\Serial number pdf creator\obj\Debug\Serial_Number_Pdf_Creator.exe
+C:\Users\Mike\Documents\Visual Studio 2013\Projects\Serial number pdf creator\Serial number pdf creator\obj\Debug\Serial_Number_Pdf_Creator.pdb
